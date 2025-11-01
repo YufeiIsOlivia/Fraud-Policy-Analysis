@@ -1,4 +1,5 @@
-# Fraud Policy Analysis - Vendor Data Integration for Fraud Detection
+# Fraud Policy Analysis 
+# - Vendor Data Integration for Fraud Detection
 
 ## 📋 Overview
 
